@@ -20,3 +20,5 @@ El Punto de Color (la "pesa" del dumbbell) marca el minuto exacto en el que ese 
 El Color y el Tamaño del punto están ligados a la escala de color (ej., de rojo oscuro a amarillo claro), donde los colores más claros indican una mayor cantidad de goles en ese minuto pico. Esto permite comparar qué equipos tienen un "minuto débil" más pronunciado.
 
 En conjunto, este gráfico es una herramienta táctica que permite identificar tendencias temporales (equipos débiles al inicio o al final del partido) y cuantificar el impacto de los minutos más vulnerables para cada rival.
+
+pd muy grande: No tengo la mas minima idea de porque en la vista previa no se logran ver las graficas, intente resolverlo varias veces pero no fui capaz, puedo demostrar que las graficas funcionan con completa normalidad en el visual studio y en anaconda, mil disculpas
