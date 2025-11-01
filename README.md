@@ -1,4 +1,7 @@
-# EDA-Cristiano_Ronaldo
+# EDA Cristiano Ronaldo
+
+por: David Alejandro Restrepo Tuberquia
+
 Este documento describe el análisis exploratorio de datos (EDA) realizado sobre un conjunto de datos que registra los goles y eventos asociados a la carrera de un futbolista de élite, presumiblemente Cristiano Ronaldo. El objetivo principal fue identificar patrones de puntuación, asistencia y vulnerabilidad de los rivales utilizando técnicas de agrupación de datos con pandas y visualizaciones interactivas y no convencionales con plotly.express.
 
 #Análisis Detallado de las Gráficas
